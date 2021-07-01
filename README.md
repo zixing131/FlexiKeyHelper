@@ -1,4 +1,4 @@
 # FlexiKeyHelper
 FlexiKeyHelper 是一个神舟系列笔记本自带的键盘宏功能开关软件，点击快捷键F7或者点击切换按钮就可以切换FlexiKey的宏开关状态。
 本软件为方便个人操作而开发。
-
+本软件开发过程中逆向了神舟官方Control Center3.0软件。
