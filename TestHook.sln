@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexiKeyHelper", "TestHook\FlexiKeyHelper.csproj", "{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}.Debug|x86.ActiveCfg = Debug|x86
+		{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}.Debug|x86.Build.0 = Debug|x86
+		{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}.Release|x86.ActiveCfg = Release|x86
+		{ED1BEDF1-3D75-4155-A99D-1E85A2EA9CE7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E9B4D7A-156F-4EFA-8F81-AAF1B08F3BDD}
+	EndGlobalSection
+EndGlobal
